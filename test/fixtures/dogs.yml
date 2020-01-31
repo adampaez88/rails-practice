@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  lifespan: 1
+  size: MyString
+  breed: one
+
+two:
+  lifespan: 1
+  size: MyString
+  breed: two
